@@ -11,8 +11,8 @@ I’m immersed in web development, learning the latest tools and technologies to
 I’m always open to working on exciting projects, whether that’s open-source contributions, web applications, or innovative solutions. If you have an idea or need help with your project, let’s team up and create something awesome!
 
 📫 Reach Out
-Feel free to connect with me through Linktree for all my social media links and ways to contact me.
-
+Feel free to connect with me. 
+shristi232310@gmail.com
 
 😄 Pronouns
 She/Her
