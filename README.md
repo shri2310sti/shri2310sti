@@ -23,7 +23,7 @@
 I'm a Computer Science & Engineering undergraduate at **VIT Bhopal**, focused on building functional, scalable web applications that solve real-world problems. I enjoy working across the full stack — from designing clean UIs to building robust backend systems — and I'm currently expanding into **Flutter** and **Machine Learning**.
 
 - 🔭 Currently building full-stack projects with the **MERN stack**
-- 🌱 Learning **Flutter** for cross-platform mobile development and exploring **ML** fundamentals
+- 🌱 Exploring **ML** fundamentals
 - 🛠️ Comfortable with **React**, **Vue**, **Node.js**, and **Express**
 - 🤝 Open to collaboration on open-source projects, web apps, and innovative solutions
 - 💬 Ask me about JavaScript, React, MERN-stack architecture, or DSA
@@ -48,7 +48,6 @@ I'm a Computer Science & Engineering undergraduate at **VIT Bhopal**, focused on
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 **Databases & Tools**
